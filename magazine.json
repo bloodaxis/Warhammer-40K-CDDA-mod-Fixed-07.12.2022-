@@ -142,6 +142,7 @@
     "capacity": 40,
     "reload_time": 35,
     "flags": [ "MAG_COMPACT" ],
+	"relic_data": { "charge_info": { "recharge_type": "periodic", "time": "20 s", "regenerate_ammo": true } },
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "las": 40 } } ]
   },
   {
@@ -159,6 +160,7 @@
     "capacity": 80,
     "reload_time": 60,
     "flags": [ "MAG_COMPACT" ],
+	"relic_data": { "charge_info": { "recharge_type": "periodic", "time": "20 s", "regenerate_ammo": true } },
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "las": 80 } } ]
   },
   {
@@ -176,6 +178,7 @@
     "capacity": 140,
     "reload_time": 120,
     "flags": [ "MAG_COMPACT" ],
+	"relic_data": { "charge_info": { "recharge_type": "periodic", "time": "20 s", "regenerate_ammo": true } },
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "las": 140 } } ]
   },
   {
